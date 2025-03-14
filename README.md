@@ -1,10 +1,9 @@
 # 📊 SQL Database Integration
-
 ## 🚀 About the Project
 
-This project demonstrates **SQL Database Integration using Python**, focusing on creating, connecting, and interacting with relational databases programmatically. The repository provides a hands-on walkthrough of **database schema creation, table manipulation, and querying** using Python's built-in libraries and third-party tools such as **SQLite3**.
+This project showcases my work during my **first-year summer internship**, where I explored and implemented **SQL Database Integration Learning Modules** using **MySQL Workbench**. The primary goal of this project was to gain a hands-on understanding of how relational databases work and curate easy-to-understand learning material for the company.  
 
-It serves as a foundational template for anyone looking to automate database tasks, manage data pipelines, or integrate databases into larger Python applications.
+Throughout the internship, I focused on essential database concepts and made available to the company in the form of learning modules.  
 
 ---
 
