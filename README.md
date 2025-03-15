@@ -5,7 +5,6 @@ This project showcases my work during my **first-year summer internship**, where
 
 Throughout the internship, I focused on essential database concepts and made available to the company in the form of learning modules.  
 
----
 
 ## 📚 Key Features
 
@@ -14,7 +13,5 @@ Throughout the internship, I focused on essential database concepts and made ava
 - ✅ **Inserting, updating, and querying data from SQL tables**
 - ✅ **Executing custom SQL queries programmatically**
 - ✅ **Managing data persistence and transactions**
-
----
 
 
